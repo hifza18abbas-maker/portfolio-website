@@ -70,13 +70,13 @@ portfolio/
 ![Desktop View](screenshots/desktop-view.png)
 
 ### Home / Hero Section
-![Home Section](screenshots/Home-Desktop.png)
+![Home Section](screenshots/home-desktop.png)
 
 ### About Section
 ![About Section](screenshots/about-desktop.png)
 
 ### Skills Section
-![Skills Section](screenshots/skill-desktop.png)
+![Skills Section](screenshots/skills-desktop.png)
 
 ### Education Section
 ![Education Section](screenshots/education-desktop.png)
